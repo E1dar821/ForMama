@@ -33,10 +33,10 @@ const PhotoGallery: React.FC = () => {
   return (
     <section id="gallery" className="py-20 bg-pink-50">
       <div className="container mx-auto px-4">
-        <h2 className="text-4xl md:text-5xl font-dancing text-center text-pink-600 mb-12">Наши Воспоминания</h2>
+        <h2 className="text-4xl md:text-5xl font-dancing text-center text-pink-600 mb-12">Воспоминания</h2>
         
         <p className="text-center text-pink-700 max-w-2xl mx-auto mb-16">
-          Здесь собраны наши лучшие моменты вместе. Каждая фотография — это история нашей любви и счастья.
+          Здесь собраны лучшие моменты.
         </p>
         
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
