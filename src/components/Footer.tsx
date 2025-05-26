@@ -11,7 +11,7 @@ const Footer: React.FC = () => {
           <Heart className="text-white ml-2 fill-current" size={20} />
         </div>
         <p>С Днем Рождения, мамочка! Люблю тебя бесконечно.</p>
-        <p className="mt-4 text-sm opacity-75">© {new Date().getFullYear()} · Создано с любовью</p>
+       
       </div>
     </footer>
   );
